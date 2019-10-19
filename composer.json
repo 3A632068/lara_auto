@@ -1,0 +1,16 @@
+{
+    "name": "3a632068/lara_auto",
+    "authors": [
+        {
+            "name": "PengHueiSin",
+            "email": "eason12326@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Demo\\": "./src/Demo"
+        }
+    }
+
+}
